@@ -1,0 +1,23 @@
+/* Custom styles for CPGA Telegram Bot */
+
+.container {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 1.5rem;
+}
+
+.card-header {
+    background-color: var(--bs-dark);
+}
+
+.alert {
+    margin-bottom: 1.5rem;
+}
+
+textarea.form-control {
+    font-family: monospace;
+}
